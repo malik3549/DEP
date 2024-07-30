@@ -1,2 +1,2 @@
 # DEP
-Digital Empowerment Pakistan Web Development Internship
+Digital Empowerment Pakistan Web Development Internship Tasks
